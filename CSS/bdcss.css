@@ -3,6 +3,7 @@ body{
     background-image:url(img/anime-sky-scenery-wallpaper-7984-8301-hd-wallpapers.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .caption{
